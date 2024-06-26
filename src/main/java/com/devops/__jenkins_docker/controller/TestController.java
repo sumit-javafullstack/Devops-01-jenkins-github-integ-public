@@ -10,7 +10,7 @@ public class TestController {
 
     @GetMapping("/hello")
     public String getHello(){
-        //commit2
+        //commit-2
         return "Hello";
     }
 }
